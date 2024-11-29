@@ -15,6 +15,8 @@
     - Current weather report  
     - Screenshot required, preparation time available  
     - Write the email body and send it (the sender and recipient addresses are currently fixed)  
+## How To Run Project
+  Start main.py.
 ## Requirement
 pyttsx3  
 eel  
